@@ -21,13 +21,7 @@ output :
  
     customer.head()
 
-    customer_id	gender	age	payment_method
-0	C241288	Female	    28.0	Credit Card
-1	C111565	Male	         21.0	Debit Card
-2	C266599	Male          20.0	Cash
-3	C988172	Female	    66.0	Credit Card
-4	C189076	Female	    53.0	Cash
-
+ 
 
 
   
