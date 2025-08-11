@@ -21,8 +21,7 @@ output :
  
     customer.head()
 
-
-    [view mall sales analysis](https://github.com/rubywilson771-ctrl/mall-sales-analysis-python/blob/main/mall_sales_analysis.html)
+[![Mall Sales Dashboard](https://user-images.githubusercontent.com/1234567/abcdef123456.png)](rubywilson771-ctrl.github.io)
 
  
 
