@@ -21,6 +21,9 @@ output :
  
     customer.head()
 
+
+    !(file:///C:/Users/Ruby/Downloads/mall_sales_analysis.html)
+
  
 
 
