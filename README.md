@@ -21,5 +21,5 @@ output :
  
     customer.head()
 
-    [screenshot]<img width="438" height="247" alt="image" src="https://github.com/user-attachments/assets/68e1d048-8965-4000-925b-65c54c853e33" />
+  
 
