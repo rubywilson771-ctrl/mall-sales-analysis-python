@@ -16,3 +16,10 @@ output :
  ['customer_id', 'gender', 'age', 'payment_method']
  ['invoice_no', 'customer_id', 'category', 'quantity', 'invoice date', 'price', 'shopping_mall']
  ['shopping_mall', 'construction_year', 'area (sqm)', 'location', 'store_count']
+
+ # Customer
+ 
+    customer.head()
+
+    [screenshot]<img width="438" height="247" alt="image" src="https://github.com/user-attachments/assets/68e1d048-8965-4000-925b-65c54c853e33" />
+
