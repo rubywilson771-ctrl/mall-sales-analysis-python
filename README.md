@@ -22,7 +22,7 @@ output :
     customer.head()
 
 
-    !(file:///C:/Users/Ruby/Downloads/mall_sales_analysis.html)
+    [view mall sales analysis](https://github.com/rubywilson771-ctrl/mall-sales-analysis-python/blob/main/mall_sales_analysis.html)
 
  
 
