@@ -1,4 +1,4 @@
-#🛍️ Mall Sales Analysis — Python Project
+**🛍️ Mall Sales Analysis — Python Project**
 
 
 ***Overview**
